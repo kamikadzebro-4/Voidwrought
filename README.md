@@ -238,4 +238,4 @@ Voidwrought is offered as a full free version with all features and updates incl
 **Ready to embark on your adventure? Download Voidwrought now and unleash your inner hero!**
 
 ---
-**Last updated:** 2026-09-29 20:34:36 UTC
+**Last updated:** 2026-09-30 00:11:43 UTC
